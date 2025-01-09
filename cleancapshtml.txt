@@ -62,7 +62,7 @@
   <main>
     <h2>Bienvenido a Clean Caps Store</h2>
     <p>Ofrecemos los mejores servicios de limpieza y mantenimiento para tus gorras favoritas.</p>
-    <a href="#services" class="btn">Conoce nuestros servicios</a>
+    <a href="a href=beneficios.html class=btnCon.txt" class="btn">Conoce nuestros servicios</a>
   </main>
   <footer>
     <p>&copy; 2025 Clean Caps Store. Todos los derechos reservados.</p>
