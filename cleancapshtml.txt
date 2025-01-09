@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Clean Caps Store</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #1a2a4f; /* Azul oscuro */
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      margin: 5px 0;
+      font-size: 1rem;
+    }
+    main {
+      padding: 20px;
+      text-align: center;
+    }
+    .btn {
+      display: inline-block;
+      margin: 20px 0;
+      padding: 10px 20px;
+      background-color: #1a2a4f; /* Azul oscuro */
+      color: white;
+      text-decoration: none;
+      font-size: 1rem;
+      border-radius: 5px;
+    }
+    .btn:hover {
+      background-color: #2b3e70; /* Azul ligeramente más claro */
+    }
+    footer {
+      background-color: #1a2a4f; /* Azul oscuro */
+      color: white;
+      text-align: center;
+      padding: 10px 0;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Clean Caps Store</h1>
+    <p>Tu gorra siempre clean</p>
+  </header>
+  <main>
+    <h2>Bienvenido a Clean Caps Store</h2>
+    <p>Ofrecemos los mejores servicios de limpieza y mantenimiento para tus gorras favoritas.</p>
+    <a href="#services" class="btn">Conoce nuestros servicios</a>
+  </main>
+  <footer>
+    <p>&copy; 2025 Clean Caps Store. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
